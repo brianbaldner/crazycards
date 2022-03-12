@@ -1,0 +1,2 @@
+C:\Users\brian\source\repos\gameserver\GameServer\bin\Release\net5.0\publish\linux-x64\GameServer.pdb
+C:\Users\brian\source\repos\gameserver\GameServer\bin\Release\net5.0\publish\linux-x64\GameServer

@@ -44,7 +44,7 @@ function HomeScreen({ navigation, route }) {
   });
   let ConnectToSocket = () => {
     isLoading(true);
-    websocket = new WebSocket("wss://" + serve);
+    websocket = new WebSocket("ws://" + serve);
     websocket.onopen = function (e) {
       console.log("Connected");
       setConnected(true);

@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\source\\repos\\gameserver\\GameServer\\GameServer.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\Documents\\CrazyCards\\Server\\GameServer\\GameServer.csproj",
       "projectName": "GameServer",
-      "projectPath": "C:\\Users\\brian\\source\\repos\\gameserver\\GameServer\\GameServer.csproj",
+      "projectPath": "C:\\Users\\brian\\Documents\\CrazyCards\\Server\\GameServer\\GameServer.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brian\\source\\repos\\gameserver\\GameServer\\obj\\",
+      "outputPath": "C:\\Users\\brian\\Documents\\CrazyCards\\Server\\GameServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
